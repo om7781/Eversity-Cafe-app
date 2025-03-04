@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Ponomar&display=swap');
+
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.tag {
+    font-family: "Ponomar", system-ui;
+}
